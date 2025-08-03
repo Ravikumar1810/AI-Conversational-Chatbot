@@ -1,4 +1,4 @@
-# 🤖 AI Conversational Chatbot
+#  AI Conversational Chatbot
 
 A full-stack conversational AI chatbot built using React, Node.js, MongoDB, and OpenRouter (ChatGPT API). The chatbot supports real-time conversation, voice input/output, typing loader, and saves chat history in MongoDB.
 
@@ -86,3 +86,4 @@ Ravikumar N K
 Acharya Institute Of Technology, Bangalore 
 Email:nkravikumar18@gmail.com
 Contact:7483173215
+
