@@ -70,13 +70,13 @@ npm run dev
 -  OpenRouter (ChatGPT models)
 
 ### AI Chat Interface
-![Chat Interface](.src/assets/chat-start.png)
+![Chat Interface](client/src/assets/chat-start.png)
 
 ### Voice Input Feature
-![Voice Input](.src/assets/voice-input.png)
+![Voice Input](client/src/assets/voice-input.png)
 
 ### Chat History in Sidebar
-![Chat History](.src/assets/chat-history.png)
+![Chat History](client/src/assets/chat-history.png)
 
 License
 MIT License © 2025
@@ -86,6 +86,7 @@ Developed by:
 - Acharya Institute Of Technology, Bangalore 
 - Email:nkravikumar18@gmail.com
 - Contact:7483173215
+
 
 
 
