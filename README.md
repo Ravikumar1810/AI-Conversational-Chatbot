@@ -25,7 +25,7 @@ A full-stack conversational AI chatbot built using React, Node.js, MongoDB, and 
 └── App.jsx
 └── main.jsx
 
-/server → Backend Node.js + Express app
+## /server → Backend Node.js + Express app
 └── controllers/
 └── chatController.js
 └── models/
@@ -40,7 +40,7 @@ A full-stack conversational AI chatbot built using React, Node.js, MongoDB, and 
 git clone https://github.com/your-username/ai-chatbot.git
 cd ai-chatbot
 
-2. Setup Backend
+# 2. Setup Backend
 cd server
 npm install
 
@@ -57,7 +57,7 @@ cd client
 npm install
 npm run dev
 
-Technologies Used
+### Technologies Used
 ->React.js
 ->Tailwind CSS
 ->Framer Motion
@@ -86,4 +86,5 @@ Ravikumar N K
 Acharya Institute Of Technology, Bangalore 
 Email:nkravikumar18@gmail.com
 Contact:7483173215
+
 
