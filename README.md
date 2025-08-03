@@ -58,16 +58,16 @@ npm install
 npm run dev
 
 ### Technologies Used
-->React.js
-->Tailwind CSS
-->Framer Motion
-->Lucide-react Icons
-->Node.js
-->Express.js
-->MongoDB + Mongoose
-->Axios
-->Web Speech API
-->OpenRouter (ChatGPT models)
+-  React.js
+-  Tailwind CSS
+-  Framer Motion
+-  Lucide-react Icons
+-  Node.js
+-  Express.js
+-  MongoDB + Mongoose
+-  Axios
+-  Web Speech API
+-  OpenRouter (ChatGPT models)
 
 ### AI Chat Interface
 ![Chat Interface](./assets/chat-start.png)
@@ -86,5 +86,6 @@ Ravikumar N K
 Acharya Institute Of Technology, Bangalore 
 Email:nkravikumar18@gmail.com
 Contact:7483173215
+
 
 
