@@ -37,20 +37,20 @@ A full-stack conversational AI chatbot built using React, Node.js, MongoDB, and 
 
 ## 🔧 Installation
 ### 1. Clone the Repository
-git clone https://github.com/your-username/ai-chatbot.git
-cd ai-chatbot
+- git clone https://github.com/your-username/ai-chatbot.git
+- cd ai-chatbot
 
 # 2. Setup Backend
-cd server
-npm install
+- cd server
+- npm install
 
 Create a .env file inside /server:
-PORT=Your Port 
-MONGO_URI=your MongoDB URI
-OPENROUTER_API_KEY=your_openrouter_api_key
+- PORT=Your Port 
+- MONGO_URI=your MongoDB URI
+- OPENROUTER_API_KEY=your_openrouter_api_key
 
 Start the backend:
-nodemon server.js
+- nodemon server.js
 
 3. Setup Frontend
 cd client
@@ -82,10 +82,11 @@ License
 MIT License © 2025
 
 Developed by:
-Ravikumar N K
-Acharya Institute Of Technology, Bangalore 
-Email:nkravikumar18@gmail.com
-Contact:7483173215
+- Ravikumar N K
+- Acharya Institute Of Technology, Bangalore 
+- Email:nkravikumar18@gmail.com
+- Contact:7483173215
+
 
 
 
